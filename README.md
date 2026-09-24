@@ -59,6 +59,9 @@ The following redirect URIs are whitelisted for MCP authentication:
 - `http://localhost/callback`
 - `http://127.0.0.1`
 - `http://127.0.0.1/callback`
+- `https://www.cursor.com/agents/mcp/oauth/callback`
+- `http://localhost:8787/callback`
+- `cursor://anysphere.cursor-mcp/oauth/callback`
 
 Contact us if you need additional URIs whitelisted.
 
